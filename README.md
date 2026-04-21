@@ -11,4 +11,4 @@
 * 📱 Telegram: @completory
 
 
-![Profile views](https://komarev.com/ghpvc/?username=mtwoqu&color=blue
+https://komarev.com/ghpvc/?username=mtwoqu&color=blue
